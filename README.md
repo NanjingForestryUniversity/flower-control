@@ -1,5 +1,10 @@
 # Kergal Flower Control
 
+## Introduction
+
+The repo is totally instructed by the [ChatGPT](https://chat.openai.com/chat) provided by OpenAI.
+Please refer to the OpenAI for more details.
+
 ## Requirements
 1. Monitoring flowers
     - Using a camera to take photos of flowers
